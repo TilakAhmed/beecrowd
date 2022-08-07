@@ -8,5 +8,5 @@ int main()
     int  spent_fuel = 12;
     cin>> spent_time >> average_speed;
     cout<< fixed << setprecision(3) << double(spent_time * average_speed) / spent_fuel <<endl;
-
+return 0;
 }
