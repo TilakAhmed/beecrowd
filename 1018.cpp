@@ -20,4 +20,5 @@ int main()
     cout<< b/2 << " nota(s) de R$ 2" << endl;
     b=b%2;
     cout<< b/1 << " nota(s) de R$ 1" << endl;
+    return 0;
 }
