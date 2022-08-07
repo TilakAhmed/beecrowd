@@ -29,4 +29,5 @@ int main()
         temp=y*e;
     }
     cout<< fixed << setprecision(2) << "Total: R$ " << temp<< endl;
+return 0;
 }
